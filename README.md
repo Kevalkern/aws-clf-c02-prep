@@ -18,7 +18,17 @@ Official references:
 - AWS exam guide: `https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html`
 - In-scope services: `https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/clf-02-in-scope-services.html`
 
-## Repo Structure
+## Start Here
+
+If you want the shortest useful path through this repo:
+
+1. Read `docs/high-yield-checklist.md`
+2. Read `docs/study-guide.md`
+3. Drill `docs/flashcards.md`
+4. Take `docs/mock-exam-50.md`
+5. Review mistakes with `docs/practice-review-template.md`
+
+## Study Pack
 
 - `docs/study-guide.md` - primary CLF-C02 study guide
 - `docs/example-questions.md` - practice questions with explanations
@@ -30,12 +40,16 @@ Official references:
 - `docs/service-map.md` - must-know services grouped by category
 - `docs/practice-review-template.md` - review sheet for mock exams
 
-## How To Use
+## Suggested Flow
 
 1. Read `docs/high-yield-checklist.md` first.
-2. Follow `docs/4-week-study-plan.md`.
+2. Use `docs/study-guide.md` to cover the four exam domains.
 3. Use `docs/service-map.md` to drill service recognition.
-4. After each practice set, fill `docs/practice-review-template.md`.
+4. Work through `docs/example-questions.md`.
+5. Run `docs/flashcards.md` for active recall.
+6. Take `docs/mock-exam-50.md` under timed conditions.
+7. After each practice set, fill `docs/practice-review-template.md`.
+8. Follow `docs/4-week-study-plan.md` if you want a structured month-long schedule.
 
 ## Exam Strategy
 
@@ -55,6 +69,15 @@ Official references:
 - Organizations, Control Tower, Trusted Advisor, Budgets, Cost Explorer
 - Support plans and pricing models
 - Well-Architected Framework pillars
+
+## Repo Goal
+
+This repo is optimized for passing `CLF-C02`, not for deep architecture training. The material is intentionally biased toward:
+
+- service selection
+- common AWS comparisons
+- security and billing fundamentals
+- exam-style wording traps
 
 ## Notes
 
